@@ -27,6 +27,10 @@ MsiExec.exe -Embedding 07DE11299EA9142225BACCC5743F8734
 
 vssvc.exe
 
+C:\Users\Admin\AppData\Local\sharepoint\forcedelctl.dll
+
+rundll32.exe C:\Users\Admin\AppData\Local\Temp\forcedelctl.dll,#1
+
 *************************************************
 
 distro
